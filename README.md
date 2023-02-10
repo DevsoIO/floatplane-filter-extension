@@ -8,7 +8,7 @@ Floatplane currently doesn't have any way of filtering
 between the different LTT channels so I built this 
 extension to provide the filtering. 
 
-![Extension Screenshot](/images/Screenshot.png|Extension Screenshot?raw=true "Extension Screenshot")
+[![Extension Screenshot](https://i.postimg.cc/Pr89KnNZ/Screenshot.png)](https://postimg.cc/dLw5tX2t)
 
 ## Limitations
 As mentioned above, I built this specifically for LTT
