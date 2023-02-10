@@ -19,7 +19,7 @@ Floatplane/Linus Media Group.
 
 Therefore, download the repository and extract
 somewhere on your PC. Then in Chrome URL go to
-`chrome://extensoons` and then ensure developer
+`chrome://extensions` and then ensure developer
 mode is enabled. Click `Load Unpacked` and then
 select the directory where you extracted the project
 
