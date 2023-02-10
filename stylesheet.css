@@ -1,0 +1,31 @@
+html, body {
+    width: 250px
+}
+
+div.data {
+    padding: 2px;
+    margin: 4px 4px 20px;
+}
+
+button#clearFilter {
+    margin-top: 30px;
+}
+
+#non_floatplane_container {
+    display: none;
+    padding: 2px;
+    margin: 4px 4px 20px;
+}
+
+li.filter {
+    padding: 4px 2px;
+    cursor: pointer;
+    list-style-type: none;
+    font-size: medium;
+}
+
+li.filter:hover {
+    background-color: #E6E4DF;
+    transition: ease-in-out;
+    transition-duration: 300ms;
+}

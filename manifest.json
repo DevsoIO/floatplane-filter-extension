@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Floatplane Filter",
+  "author": "Chris Board - Devso",
+  "description": "Filter channels uploaded by LTT (Linus Tech Tips) by channel name on floatplane.com",
+  "version": "1.0",
+  "icons": {
+    "48": "images/floatplane_logo.png"
+  },
+  "license": "",
+  "action": {
+    "default_popup": "popup.html",
+    "browser_style": true
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.floatplane.com/channel/linustechtips/home"],
+      "js": ["scripts/content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
