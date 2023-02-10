@@ -10,6 +10,19 @@ extension to provide the filtering.
 
 [![Extension Screenshot](https://i.postimg.cc/Pr89KnNZ/Screenshot.png)](https://postimg.cc/dLw5tX2t)
 
+## Installation
+At the moment this extension is not available
+on the Chrome Store. I'm not sure whether it
+ever will be as I obviously don't want to publish
+something under Floatplane without permission from
+Floatplane/Linus Media Group. 
+
+Therefore, download the repository and extract
+somewhere on your PC. Then in Chrome URL go to
+`chrome://extensoons` and then ensure developer
+mode is enabled. Click `Load Unpacked` and then
+select the directory where you extracted the project
+
 ## Limitations
 As mentioned above, I built this specifically for LTT
 as they upload all of their different YouTube channels
